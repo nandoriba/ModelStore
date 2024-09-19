@@ -1,0 +1,6 @@
+@ModelStore.Catalogo.API_HostAddress = http://localhost:5178
+
+GET {{ModelStore.Catalogo.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

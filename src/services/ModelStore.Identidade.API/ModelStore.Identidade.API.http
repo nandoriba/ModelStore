@@ -1,0 +1,6 @@
+@ModelStore.Identidade.API_HostAddress = http://localhost:5135
+
+GET {{ModelStore.Identidade.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
